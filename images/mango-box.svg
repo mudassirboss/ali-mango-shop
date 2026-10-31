@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" role="img" aria-label="A crate of ripe mangoes">
+  <ellipse cx="85" cy="92" rx="52" ry="42" fill="#ffb300"/>
+  <ellipse cx="150" cy="78" rx="56" ry="46" fill="#ff8f00"/>
+  <ellipse cx="215" cy="92" rx="52" ry="42" fill="#ffa726"/>
+  <path d="M150 34 q6 -22 30 -22 q-6 22 -30 22z" fill="#3b7a2a"/>
+  <rect x="24" y="108" width="252" height="96" rx="8" fill="#a0683a"/>
+  <rect x="24" y="108" width="252" height="16" fill="#7c4d27"/>
+  <rect x="24" y="146" width="252" height="10" fill="#7c4d27"/>
+  <rect x="24" y="182" width="252" height="10" fill="#7c4d27"/>
+</svg>
